@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+  }
+  
+  .my-heading {
+    color: cyan;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    letter-spacing: 1px;
+  }
+  .my-heading {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+  }
+  1 {
+    margin-top: 50px;
+    padding: 20px;
+  }
+  p {
+    border: 2px solid teal;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  button {
+    transition: background-color 0.3s ease;
